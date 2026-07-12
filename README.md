@@ -1,4 +1,4 @@
-# OAuth Authentication Server
+# OAuth2 Authentication Server
 
 A secure OAuth Authentication Server built using Spring Boot, Spring Security, JWT, and MySQL.
 
@@ -28,11 +28,23 @@ A secure OAuth Authentication Server built using Spring Boot, Spring Security, J
 
 ```
 src
-├── controller
-├── service
-├── repository
-├── entity
-├── dto
-├── config
-└── security
+├── main
+│   ├── java
+│   │   └── com.ankita.oauth
+│   │       ├── config
+│   │       ├── controller
+│   │       ├── dto
+│   │       ├── entity
+│   │       ├── repository
+│   │       ├── security
+│   │       └── service
+│   │
+│   └── resources
+│       ├── static
+│       │   └── css
+│       ├── templates
+│       │   ├── login.html
+│       │   ├── register.html
+│       │   └── dashboard.html
+│       └── application.properties
 ```
