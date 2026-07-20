@@ -111,51 +111,40 @@ Protected APIs require a valid JWT Access Token.
 
 # 📌 Maven Commands
 
-Clean Project
-
-mvn clean
-
-Compile Project
-
-mvn compile
-
-Run Tests
-
-mvn test
-
-Package Project
-
-mvn package
-
-Run Application
-
-mvn spring-boot:run
+- Clean Project :
+  mvn clean
+  
+- Compile Project :
+  mvn compile
+  
+- Run Tests :
+  mvn test
+  
+- Package Project :
+  mvn package
+  
+- Run Application :
+  mvn spring-boot:run
 
 # 📥 Git Commands
 
-Clone Repository
+- Clone Repository : 
+ git clone https://github.com/Ankita-meshram/Oauth2-server.git
 
-git clone https://github.com/Ankita-meshram/Oauth2-server.git
+- Check Status :
+ git status
 
-Check Status
+- Add Files :
+ git add .
 
-git status
+- Commit Changes :
+ git commit -m "Initial Commit"
 
-Add Files
+- Push Code :
+ git push origin main
 
-git add .
-
-Commit Changes
-
-git commit -m "Initial Commit"
-
-Push Code
-
-git push origin main
-
-Pull Latest Changes
-
-git pull origin main
+- Pull Latest Changes :
+ git pull origin main
 
 # 👩‍💻 Author
 
