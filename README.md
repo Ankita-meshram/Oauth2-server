@@ -26,7 +26,7 @@ A secure OAuth2 Authentication Server built using Spring Boot and Spring Securit
 - Postman
 - IntelliJ IDEA / VS Code
 
-#📥 Software Required
+# 📥 Software Required
 
 Install the following software before running the project.
 
